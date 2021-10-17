@@ -1,5 +1,7 @@
 # Optimize dataframe memory usage (python, pandas)
 
+Для статьи: https://www.e-du.ru/2021/10/optimize-dataframe-memory-usage.html
+
     import pandas as pd
     import numpy as np
 
